@@ -1,0 +1,33 @@
+{
+  "name": "gbc-confirmador_tendencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abraham alvarez",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "async": "^2.5.0",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "heapdump": "^0.3.9",
+    "is-running": "^2.1.0",
+    "lodash": "^2.4.2",
+    "method-override": "^2.3.10",
+    "moment": "^2.19.1",
+    "mongoose": "^4.12.3",
+    "mongoose-query-paginate": "^1.0.3",
+    "node-async-loop": "^1.2.2",
+    "node-bittrex-api": "^0.7.6",
+    "qrcode": "^0.9.0",
+    "retry": "^0.10.1",
+    "sizeof": "^1.0.0",
+    "speakeasy": "^2.0.0",
+    "technicalindicators": "^1.0.21"
+  }
+}
