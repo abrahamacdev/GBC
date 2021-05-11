@@ -17,7 +17,7 @@
     "express": "^4.16.2",
     "heapdump": "^0.3.9",
     "is-running": "^2.1.0",
-    "lodash": "^2.4.2",
+    "lodash": "^4.17.21",
     "method-override": "^2.3.10",
     "moment": "^2.19.1",
     "mongoose": "^4.12.3",
