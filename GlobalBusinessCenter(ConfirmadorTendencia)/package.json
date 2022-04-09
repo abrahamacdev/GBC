@@ -19,7 +19,7 @@
     "is-running": "^2.1.0",
     "lodash": "^2.4.2",
     "method-override": "^2.3.10",
-    "moment": "^2.19.1",
+    "moment": "^2.29.2",
     "mongoose": "^4.12.3",
     "mongoose-query-paginate": "^1.0.3",
     "node-async-loop": "^1.2.2",
