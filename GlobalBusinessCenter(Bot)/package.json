@@ -11,7 +11,7 @@
   "private": true,
   "dependencies": {
     "aerospike": "^3.0.2",
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
