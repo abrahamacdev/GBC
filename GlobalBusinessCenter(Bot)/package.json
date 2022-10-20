@@ -19,7 +19,7 @@
     "is-running": "^2.1.0",
     "lodash": "^4.17.4",
     "method-override": "^2.3.10",
-    "mongoose": "^4.12.3",
+    "mongoose": "^4.13.21",
     "node-bittrex-api": "^0.7.6",
     "request": "^2.83.0",
     "uuid": "^3.1.0"
